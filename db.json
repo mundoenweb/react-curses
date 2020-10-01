@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "title": "progresive web app",
+        "imgcurse": "../img/pwa.jpg",
+        "price": 50,
+        "imgp": "../img/p1.jpg",
+        "professor": "alexis lozada"
+    },
+    {
+        "id": 2,
+        "title": "java script desde 0",
+        "imgcurse": "../img/js.jpg",
+        "price": 60,
+        "imgp": "../img/p2.jpg",
+        "professor": "alvaro mendoza"
+
+    },
+    {
+        "id": 3,
+        "title": "html desde 0",
+        "imgcurse": "../img/html.png",
+        "price": 70,
+        "imgp": "../img/p3.jpg",
+        "professor": "beto quiroga"
+
+    },
+    {
+        "id": 4,
+        "title": "css avanzado",
+        "imgcurse": "../img/css.png",
+        "price": 80,
+        "imgp": "../img/p4.jpg",
+        "professor": "rommer jose"
+
+    }
+]
